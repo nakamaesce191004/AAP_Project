@@ -8,3 +8,6 @@ color 1 :#164863
 color 2 :#427D9D
 color 3 :#9BBEC8
 color 4 :#DDF2FD
+
+frame 2X panjang :
+![Frame 1](https://github.com/user-attachments/assets/15875a48-e9cb-46eb-bb01-d3ec07906467)
